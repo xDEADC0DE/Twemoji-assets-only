@@ -4,7 +4,7 @@ A fork of Twitter’s [Twemoji](https://github.com/twitter/twemoji) with everyth
 
 ## License
 
-Copyright 2019 Twitter, Inc and other contributors
+Copyright 2020 Twitter, Inc and other contributors
 
 Code licensed under the MIT License: <http://opensource.org/licenses/MIT>
 

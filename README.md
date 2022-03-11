@@ -1,10 +1,10 @@
 # Twitter Emoji (Twemoji) – Assets only
 
-A fork of Twitter’s [Twemoji](https://github.com/twitter/twemoji) with everything removed except the assets in SVG and PNG format.
+A fork of Twitter’s [Twemoji](https://github.com/twitter/twemoji), keeping only the latest version of the assets in SVG and PNG format.
 
 ## License
 
-Copyright 2020 Twitter, Inc and other contributors
+Copyright 2019–2022 Twitter, Inc and other contributors
 
 Code licensed under the MIT License: <http://opensource.org/licenses/MIT>
 
